@@ -6,7 +6,7 @@
     <h1 style="color:blue; font-size:50"> <b>Registration Form</b></h1>
 
 <form action="HelloWorldServlet" method="get">
-    Enter your Full Name: <input type="text" name="fullname"   style ="text-align:center" size="24">
+    Enter your Full Name: <input type="text" name="fullname"   style="background-color:rgb(204, 153, 255);font-weight:bold" size="30">
     <br>
     <br>
     Enter Your Roll No: <input type="text" name"rollno" size="24">
@@ -18,7 +18,7 @@
     Enter your Email-Id: <input type="email" name="email" size="24">
    <br>
     <br>
-    <button style="background-color:rgb(204, 255, 255);font-size:35"><b>SUBMIT!!</b></button>                
+    <button style="background-color:rgb(204, 255, 255);font-size:45"><b>SUBMIT!!</b></button>                
 </form>
 </body>
 </html>
