@@ -6,16 +6,16 @@
     <h1 style="color:blue; font-size:50"> <b>Registration Form</b></h1>
 
 <form action="HelloWorldServlet" method="get">
-    Enter your Full Name: <input type="text" name="fullname"   style="background-color:rgbrgb(247, 230, 255)" weight="bold" size="30">
+    Enter your Full Name: <input type="text" name="fullname"   style="background-color:rgb(247, 230, 255)" weight="bold" size="30">
     <br>
     <br>
-    Enter Your Roll No: <input type="text" name"rollno" style="background-color:rgbrgb(247, 230, 255)" weight="bold" size="30">
-    <br>
-    <br>                    
-    Enter Your Mobile No: <input type="text" name"mobileno" style="background-color:rgbrgb(247, 230, 255)" weight="bold"size="30">
+    Enter Your Roll No: <input type="text" name"rollno" style="background-color:rgb(247, 230, 255)" weight="bold" size="30">
     <br>
     <br>                    
-    Enter your Email-Id: <input type="email" name="email"style="background-color:rgbrgb(247, 230, 255)" weight="bold" size="30">
+    Enter Your Mobile No: <input type="text" name"mobileno" style="background-color:rgb(247, 230, 255)" weight="bold"size="30">
+    <br>
+    <br>                    
+    Enter your Email-Id: <input type="email" name="email"style="background-color:rgb(247, 230, 255)" weight="bold" size="30">
    <br>
     <br>
     <button style="background-color:rgb(204, 255, 255);font-size:20px; text-align:center"><b>SUBMIT!!</b></button>                
